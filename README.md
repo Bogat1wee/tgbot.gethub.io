@@ -1,6 +1,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
+    <title>Курсы</title>
 </head>
 <body>
     <div id="main">
